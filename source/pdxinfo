@@ -1,0 +1,7 @@
+name=Picky Treats
+author=uguu.org
+description=Practice game for the discerning trick-or-treater
+bundleID=org.uguu.PickyTreats
+version=0.1
+buildNumber=1
+imagePath=launcher/
